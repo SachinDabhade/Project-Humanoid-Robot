@@ -3,9 +3,9 @@ import numpy as np
 # Define the environment
 class HumanoidEnv:
   def __init__(self):
-    self.state = None
-    self.reward = None
-    self.done = None
+    self.state = 0
+    self.reward = 0
+    self.done = 0
 
   def reset(self):
     # Reset the environment to the initial state
