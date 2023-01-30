@@ -1,0 +1,13 @@
+OpenAI Gym: https://gym.openai.com/
+
+Pybullet: https://github.com/bulletphysics/bullet3
+
+ROS (Robot Operating System): https://www.ros.org/
+
+Reinforcement Learning Algorithms in Python: https://github.com/aikorea/rl_algos
+
+Reinforcement Learning Course by University of Alberta: http://www.cs.ualberta.ca/~sutton/RLbook/bookdraft2017june.pdf
+
+Reinforcement Learning Specialization on Coursera: https://www.coursera.org/specializations/reinforcement-learning
+
+Reinforcement Learning for Robotics on GitHub: https://github.com/search?q=reinforcement+learning+for+robotics&type=Repositories
